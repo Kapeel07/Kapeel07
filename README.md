@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapeel07" alt="kapeel07" /></a> </p>
 
-- 🌱 I’m currently learning **Coding, Data Science**
+- 🌱 I’m currently learning **Data Science/ Machine learning/ Artificial Intelligence**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kapeel07](https://github.com/Kapeel07)
 
 - 📫 How to reach me 4321kumarkapil@gmail.com**
-
-- ⚡ Fun fact **Sometimes funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
